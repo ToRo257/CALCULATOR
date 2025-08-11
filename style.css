@@ -76,6 +76,7 @@ body {
   font-size: 40px;
   bottom: 100px;
   cursor: pointer;
+  border-radius: 15px;
 }
 
 .mainImage {
@@ -116,4 +117,8 @@ body {
   font-size: 40px;
   bottom: 40px;
   cursor: pointer;
+  border-radius: 15px;
+}
+.rollButton:hover{
+  background-color: rgb(161, 65, 65);
 }
